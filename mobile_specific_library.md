@@ -1,3 +1,4 @@
 #Mobile-specific library
 
-####To be added
+####Swipe.js <http://swipejs.com>
+Swipe is the most accurate touch slider.
